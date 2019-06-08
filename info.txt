@@ -1,0 +1,8 @@
+"about","about"
+"find","find"
+"info","info"
+"information","information"
+"search","search"
+"summary","summary"
+"wiki","wiki"
+"wikipedia","wikipedia"
