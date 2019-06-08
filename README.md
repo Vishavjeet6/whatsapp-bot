@@ -1,6 +1,10 @@
 "# whatsapp-bot" 
 "# whatsapp-bot" 
 
+sandbox details - join drop-series
+number = +1 415 523 8886
+
+
 How to use:
 This chatbot can give you movies info, news, wikipedia, and general query
 
