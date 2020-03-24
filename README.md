@@ -40,5 +40,7 @@ now you are all set to talk with my bot
 * MongoDB
 * Google Cloud
 * Wolfram api
-* Googleclient api
+* gnewsclient api
 * Flask
+
+All the required libraries can be found in requirement.txt file
