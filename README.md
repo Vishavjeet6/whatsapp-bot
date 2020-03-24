@@ -1,29 +1,44 @@
-"# whatsapp-bot" 
-"# whatsapp-bot" 
+# WhatsApp ChatBot
 
-sandbox details - join drop-series
+A simple chatbot which answers to user queries
 
+## Getting Started
 
-number = +1 415 523 8886
+To run my chatbot on your mobile follow below instructions
 
+### Prerequisites
 
-How to use:
-This chatbot can give you movies info, news, wikipedia, and general query
+You need to have WhatsApp Application. If you don't have download it from play store on your mobile
 
+### Getting Started
 
-for movie name use movie_name.txt file
-    avengers movie
-
-for any wiki information you can write- keyword(from info.txt) than anything
-      modi wiki
-      info on tajmahal
-      summary india
+Save +1 415 523 8886 on your mobile
+and whatsapp "join drop-series" without quotations and you will recieve a message from twilio
+now you are all set to talk with my bot
+![Image description](img/sandbox.PNG)
 
 
-for news search anything like:
-    sports news in hindi
-    tech news in marathi
-    
-for other query use keyword wolfram than your query like:
-    wolfram calories in one egg
-    wolfram london weather today
+## Asking Queries
+
+### This chatbot can give you the movie details just type the movie name
+![Image description](img/movie.PNG)
+
+### You can ask news
+![Image description](img/news.PNG)
+
+### You can do wiki search by using keywords like wiki, info, summary
+![Image description](img/wiki.PNG)
+
+### If you want to do google search you can do by using keyword wolfram
+![Image description](img/wolfram.PNG)
+
+## Built With
+
+* Python3
+* Twilio
+* Google Dialogflow
+* MongoDB
+* Google Cloud
+* Wolfram api
+* Googleclient api
+* Flask
