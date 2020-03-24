@@ -42,5 +42,6 @@ now you are all set to talk with my bot
 * Wolfram api
 * gnewsclient api
 * Flask
+* OMDB api
 
 All the required libraries can be found in requirement.txt file
