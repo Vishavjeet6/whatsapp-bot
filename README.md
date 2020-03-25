@@ -44,4 +44,11 @@ now you are all set to talk with my bot
 * Flask
 * OMDB api
 
+## How my ChatBot works
+
+* I have used Google Dialog Flow which determines the intent of user query i.e. whether it is news search, movies search or wiki search
+and after it has determined the intent it makes use of the required api to fetch the output
+
+* If the keyword wolfram is found in the user query, then chatbot directly uses wolfram api.
+
 All the required libraries can be found in requirement.txt file
